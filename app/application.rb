@@ -1,7 +1,7 @@
 class Application 
   
   def call(env)
-    resp
+    resp = rack::
   end
   
 end
